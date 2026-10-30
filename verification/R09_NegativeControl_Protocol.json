@@ -1,0 +1,22 @@
+{
+  "title": "Month-preserving circular shift negative control of humidity alignment",
+  "source_R04_sha256": "3f9611957b6652dee5f314d30f43888daed4346be80b3b4e639ec85076af149f",
+  "model": "R08 rich temp/solar/day/season with vs without latent_potential",
+  "alpha": 10.0,
+  "random_seed": 8209,
+  "n_placebos": 299,
+  "cities": [
+    "Doha",
+    "Riyadh",
+    "Kuwait City",
+    "Muscat"
+  ],
+  "scope": "post-R08 retrospective falsification; months within each city shifted 7+ days; no field data or causal intervention",
+  "interpretation": "Site-month climatology and unobserved site-level confounders preserved; daily alignment perturbed. Permutation contrasts are diagnostics, not p values, independent prospective validation, or HVAC energy savings.",
+  "r08_daily_sha256": "25df19a3d941a39292366fffa3c7c5d0c65bbeb98cde9aa0c681fb2f39062ebc",
+  "file_hashes": {
+    "R09_Fixed_TrueMoisture_HeldOutForecasts.csv": "50901864ccd82bfd0b7dfa300a69bd4ddee30bc1eab3cb6abbe1852dad42817b",
+    "R09_MonthlyShift_NegativeControl_Full.csv": "adeb42d6f0c7f8e40f0ab603b638b38679d76edad0a287dc27284ea631c203b0",
+    "R09_Placebo_City_Summary.csv": "8b400c2d021d0463f12489639c303b488daae271fb5f2f7c099daad2ec6ccc16"
+  }
+}

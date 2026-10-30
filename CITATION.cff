@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript; the archival code-and-data release is not yet a peer-reviewed publication."
+title: "Beyond Dry-Bulb Temperature in Gulf Cities: A Four-City Cooling-Electricity Prediction Comparison Under City–Season Holdout"
+type: software
+version: 1.0.0
+release-date: 2026-10-30
+authors:
+  - family-names: Malkawi
+    given-names: Ghassan
+  - family-names: El Sayed
+    given-names: Ahmed
+  - family-names: Alobaidi
+    given-names: Ghada

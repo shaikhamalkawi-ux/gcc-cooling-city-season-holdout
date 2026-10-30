@@ -1,0 +1,5 @@
+heldout_city,family,ridge_alpha,candidate,baseline_MAE_kWh_day,candidate_MAE_kWh_day,heldout_city_season_doubleblock_MAE_reduction_pct,baseline_annual_bias_pct,candidate_annual_bias_pct,improved_MAE
+Doha,Rich_T_Solar_Season,10.000000000,Plus_humidity_ratio,119.577352818,80.157311121,32.966143478,7.761798708,0.580720642,True
+Kuwait City,Rich_T_Solar_Season,10.000000000,Plus_humidity_ratio,93.019041551,80.470272819,13.490537554,4.961676294,2.065243373,True
+Muscat,Rich_T_Solar_Season,10.000000000,Plus_humidity_ratio,84.171039625,68.227320874,18.942048027,1.453224740,2.053697537,True
+Riyadh,Rich_T_Solar_Season,10.000000000,Plus_humidity_ratio,81.953996838,70.297801487,14.222851601,11.007830780,3.416789775,True

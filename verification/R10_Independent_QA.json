@@ -1,0 +1,180 @@
+{
+  "project": "Project82 R10",
+  "read_only_source_SHA256": "3f9611957b6652dee5f314d30f43888daed4346be80b3b4e639ec85076af149f",
+  "tests": [
+    {
+      "test": "frozen source SHA",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "ZIP CRC",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "Abu Dhabi gate HOLD",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "four technical PASS only",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "no claim of model admission",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "source EPW 5 cities",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "1460 complete source-derived days",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "four city tags",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "one target year",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "unique city-date keys",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "16 city/quarter folds",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "only 3 source cities in fold",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "heldout days quarter range",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "all temporal/source isolation flags",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "480 model fits",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "43800 predictions",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "no missing numeric",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "16x4 paired season curves",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "96 all-season paired comparisons",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "nonnegative prediction",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "exact 365 predictions every city/model/penalty",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "480 independent fold MAE recomputations",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "384 independently reconstructed pairwise percentages",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "96 calendar-quarter weighted annual paired effects",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "selected rich-alpha-10 four-city gains",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "15/16 individual quarter positive, one negative",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "Riyadh Q1 negative",
+      "pass": true,
+      "details": null
+    },
+    {
+      "test": "22/24 candidate family/penalty annual gains",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "total_tests": 28,
+  "passed": 28,
+  "selected_city_results": [
+    {
+      "heldout_city": "Doha",
+      "baseline_MAE_kWh_day": 119.577352818,
+      "candidate_MAE_kWh_day": 80.157311121,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 32.966143478
+    },
+    {
+      "heldout_city": "Kuwait City",
+      "baseline_MAE_kWh_day": 93.019041551,
+      "candidate_MAE_kWh_day": 80.470272819,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 13.490537554
+    },
+    {
+      "heldout_city": "Muscat",
+      "baseline_MAE_kWh_day": 84.171039625,
+      "candidate_MAE_kWh_day": 68.227320874,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 18.942048027
+    },
+    {
+      "heldout_city": "Riyadh",
+      "baseline_MAE_kWh_day": 81.953996838,
+      "candidate_MAE_kWh_day": 70.297801487,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 14.222851601
+    }
+  ],
+  "quarterly_positive": 15,
+  "quarterly_total": 16,
+  "blocked_annual_positive": 22,
+  "blocked_annual_total": 24,
+  "publication_gate": "HOLD; Abu Dhabi no converged E+, equipment sizing and comfort unresolved",
+  "scientific_scope": "retrospective 4 city x 4 season double-block reanalysis, 2023 simulator only"
+}

@@ -1,0 +1,3 @@
+# Derived model outputs are data, not lines of source code; avoid noisy GitHub diffs.
+data/*.csv linguist-generated=true
+data/*.gz binary

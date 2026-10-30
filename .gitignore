@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+.local/
+source/
+climate_r02/
+new_r09_results/
+new_r10_results/
+*TOKEN*
+.env

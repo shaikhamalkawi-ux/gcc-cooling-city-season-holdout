@@ -1,0 +1,6 @@
+city,mean_sensible_only_kWh_m2,mean_positive_latent_kWh_m2,mean_component_sum_kWh_m2,rank_temperature,rank_component_sum,latent_share_nonnegative_components_pct,component_equals_sum_pass,increase_is_nonnegative_by_construction
+Abu Dhabi,12.37820472,20.54241082,32.92061554,5,1,62.39983816,True,True
+Riyadh,16.02656587,0.1009030779,16.12746895,1,5,0.6256597251,True,True
+Doha,15.93413019,6.006004651,21.94013484,2,2,27.37451112,True,True
+Muscat,15.03582526,5.133907495,20.16973276,3,3,25.45352264,True,True
+Kuwait City,13.65768713,5.086224359,18.74391149,4,4,27.13534132,True,True

@@ -1,0 +1,27 @@
+{
+  "project": "Project82 R08",
+  "source_R04_SHA256": "3f9611957b6652dee5f314d30f43888daed4346be80b3b4e639ec85076af149f",
+  "source_status": "four city R04 outputs; Abu Dhabi excluded",
+  "scope": "exploratory 2023 4-city simulator-emulation sensitivity",
+  "counts": {
+    "daily_rows": 1460,
+    "folds_cities": 4,
+    "model_families": 14,
+    "targets": 2,
+    "metrics_rows": 112,
+    "predictions_rows": 40880,
+    "pair_rows": 72
+  },
+  "method": "leave exactly one city out; all scalers and coefficients fitted on other three cities; 365 held-out daily outcomes; standardized Ridge alpha 10; nonnegative clipping; seven-day resampling of FIXED forecasts only",
+  "limits": [
+    "no new EnergyPlus runs",
+    "not independent measurement validation",
+    "shared Dubai design days and >600h annual occupied cooling setpoint unmet",
+    "no site-year repetitions for simulator",
+    "noncausal correlated meteorological inputs",
+    "model family choice post R06 means exploratory, not independent confirmatory",
+    "within-year resampling not across independent cities"
+  ],
+  "publication_ready": false,
+  "R05_warmup_gate": "HOLD"
+}

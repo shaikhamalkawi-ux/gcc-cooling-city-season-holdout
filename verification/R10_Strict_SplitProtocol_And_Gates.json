@@ -1,0 +1,76 @@
+{
+  "status": "R10 partial independent validation; NOT final EnergyPlus evidence",
+  "source_R04_SHA256": "3f9611957b6652dee5f314d30f43888daed4346be80b3b4e639ec85076af149f",
+  "source_simulation_gate": "HOLD",
+  "new_energyplus_execution": false,
+  "date_year": 2023,
+  "cities_n": 4,
+  "weather_years_n": 1,
+  "fold_protocol": "hold entire tested city and same tested calendar quarter out of all training records",
+  "folds": 16,
+  "fits": 480,
+  "predictions": 43800,
+  "ridge_penalties": [
+    1.0,
+    10.0,
+    100.0
+  ],
+  "abudhabi_gate": "HOLD 8 severe warmup errors",
+  "served_equivalence_gate": "HOLD >600h occupied cooling unmet at all admitted sites",
+  "capacity_gate": "HOLD inherited Dubai design day",
+  "economic_gate": "HOLD",
+  "novelty_gate": "HOLD",
+  "selected_results": [
+    {
+      "heldout_city": "Doha",
+      "family": "Rich_T_Solar_Season",
+      "ridge_alpha": 10.0,
+      "candidate": "Plus_humidity_ratio",
+      "baseline_MAE_kWh_day": 119.57735281843475,
+      "candidate_MAE_kWh_day": 80.15731112141927,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 32.966143477745774,
+      "baseline_annual_bias_pct": 7.761798707967423,
+      "candidate_annual_bias_pct": 0.5807206418125387,
+      "improved_MAE": true
+    },
+    {
+      "heldout_city": "Kuwait City",
+      "family": "Rich_T_Solar_Season",
+      "ridge_alpha": 10.0,
+      "candidate": "Plus_humidity_ratio",
+      "baseline_MAE_kWh_day": 93.01904155146602,
+      "candidate_MAE_kWh_day": 80.47027281901352,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 13.490537553549677,
+      "baseline_annual_bias_pct": 4.961676294025811,
+      "candidate_annual_bias_pct": 2.0652433728733084,
+      "improved_MAE": true
+    },
+    {
+      "heldout_city": "Muscat",
+      "family": "Rich_T_Solar_Season",
+      "ridge_alpha": 10.0,
+      "candidate": "Plus_humidity_ratio",
+      "baseline_MAE_kWh_day": 84.17103962487637,
+      "candidate_MAE_kWh_day": 68.22732087436972,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 18.942048026925587,
+      "baseline_annual_bias_pct": 1.4532247400705312,
+      "candidate_annual_bias_pct": 2.053697536993092,
+      "improved_MAE": true
+    },
+    {
+      "heldout_city": "Riyadh",
+      "family": "Rich_T_Solar_Season",
+      "ridge_alpha": 10.0,
+      "candidate": "Plus_humidity_ratio",
+      "baseline_MAE_kWh_day": 81.9539968378337,
+      "candidate_MAE_kWh_day": 70.29780148677281,
+      "heldout_city_season_doubleblock_MAE_reduction_pct": 14.222851600667578,
+      "baseline_annual_bias_pct": 11.007830780303896,
+      "candidate_annual_bias_pct": 3.416789775301388,
+      "improved_MAE": true
+    }
+  ],
+  "all_families_fraction_MAE_improved_ratio": 22,
+  "all_families_total_ratio": 24,
+  "precaution": "strict city-season folds are 16 artificial partitions of 4 cities and one weather year, not 16 independent environments"
+}

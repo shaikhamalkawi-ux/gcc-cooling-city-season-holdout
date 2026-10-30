@@ -1,0 +1,21 @@
+name: Verify released arithmetic
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  verify-frozen-outputs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check published output arithmetic
+        run: python3 verification/verify_public_results.py
+      - name: Check release hashes
+        run: sha256sum --check SHA256SUMS.txt

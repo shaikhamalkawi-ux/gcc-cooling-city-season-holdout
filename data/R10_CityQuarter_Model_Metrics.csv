@@ -1,0 +1,481 @@
+heldout_city,heldout_quarter,baseline_family,candidate,ridge_alpha,train_n,test_n,MAE_kWh_day,RMSE_kWh_day,annual_target
+Riyadh,1,Simple_T,Temperature_only,1.000000000,825,90,126.245583054,150.478655197,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_humidity_ratio,1.000000000,825,90,110.409265410,134.372562149,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_dewpoint,1.000000000,825,90,76.418189776,99.109403930,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_relative_humidity,1.000000000,825,90,131.135963896,178.402788107,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_enthalpy,1.000000000,825,90,117.274042807,143.491014345,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Temperature_only,1.000000000,825,90,67.777132929,81.472455217,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,825,90,74.894353527,85.245579237,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,825,90,74.422715494,92.513807219,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,825,90,82.418607226,108.402344741,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,825,90,76.333031102,87.126355717,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Temperature_only,10.000000000,825,90,128.705554454,153.409587367,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_humidity_ratio,10.000000000,825,90,112.341474531,136.493634672,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_dewpoint,10.000000000,825,90,77.365323022,100.226579864,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_relative_humidity,10.000000000,825,90,131.286604315,177.322423359,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_enthalpy,10.000000000,825,90,118.646888772,145.115498593,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Temperature_only,10.000000000,825,90,81.849207670,94.542468288,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,825,90,86.591113980,98.456072857,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,825,90,72.018726672,90.226278643,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,825,90,80.951343634,106.425135927,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,825,90,96.208157535,109.286844388,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Temperature_only,100.000000000,825,90,153.512261500,181.431605527,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_humidity_ratio,100.000000000,825,90,129.360093692,156.572912428,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_dewpoint,100.000000000,825,90,86.215605987,110.570506392,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_relative_humidity,100.000000000,825,90,152.234194254,184.834775368,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Simple_T,Plus_enthalpy,100.000000000,825,90,129.723767640,159.326980054,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Temperature_only,100.000000000,825,90,85.019022815,97.003545872,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,825,90,79.593367070,91.539268653,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,825,90,58.049821806,75.457787901,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,825,90,73.576578069,94.167212833,2023 simulated cooling electricity; only target quarter
+Riyadh,1,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,825,90,90.118630885,103.703791429,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Temperature_only,1.000000000,822,91,90.639731730,124.001789521,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_humidity_ratio,1.000000000,822,91,57.163210642,87.843930549,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_dewpoint,1.000000000,822,91,92.795939824,115.990400720,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_relative_humidity,1.000000000,822,91,58.542397930,95.846763597,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_enthalpy,1.000000000,822,91,73.249705287,96.134980818,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Temperature_only,1.000000000,822,91,59.276284280,90.737546805,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,822,91,51.756900851,83.275405643,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,822,91,87.974249533,107.041721069,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,822,91,54.503415008,84.502555604,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,822,91,74.852808414,94.003926314,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Temperature_only,10.000000000,822,91,89.236852383,122.489518464,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_humidity_ratio,10.000000000,822,91,58.784674527,87.525349516,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_dewpoint,10.000000000,822,91,97.763458312,121.916246512,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_relative_humidity,10.000000000,822,91,61.598608474,98.850209348,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_enthalpy,10.000000000,822,91,77.887846519,101.056397765,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Temperature_only,10.000000000,822,91,62.441286793,95.103736333,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,822,91,51.179606625,84.273216785,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,822,91,85.483858763,105.008763714,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,822,91,52.824473381,84.608259623,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,822,91,67.165354812,88.975692105,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Temperature_only,100.000000000,822,91,77.548788133,111.015806207,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_humidity_ratio,100.000000000,822,91,76.109798709,98.351391478,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_dewpoint,100.000000000,822,91,140.097445099,173.323686016,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_relative_humidity,100.000000000,822,91,110.815345384,140.936831967,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Simple_T,Plus_enthalpy,100.000000000,822,91,107.412797369,135.607835422,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Temperature_only,100.000000000,822,91,68.603772551,102.689465085,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,822,91,53.265787770,88.951334011,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,822,91,76.593344136,97.423365853,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,822,91,51.929857540,89.681324763,2023 simulated cooling electricity; only target quarter
+Riyadh,2,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,822,91,60.098572849,87.714014489,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Temperature_only,1.000000000,819,92,86.595473345,146.052205676,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_humidity_ratio,1.000000000,819,92,126.105935794,149.877616466,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_dewpoint,1.000000000,819,92,192.418206626,205.535277005,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_relative_humidity,1.000000000,819,92,93.704271251,142.756914506,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_enthalpy,1.000000000,819,92,164.917522688,177.176971197,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,134.783582910,188.706561980,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,88.904741024,141.684322807,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,114.681681744,147.078519758,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,90.251505991,151.334792924,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,136.631840064,155.017794221,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Temperature_only,10.000000000,819,92,87.987739934,145.483093773,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_humidity_ratio,10.000000000,819,92,131.234598069,152.806993571,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_dewpoint,10.000000000,819,92,198.666487053,212.060522961,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_relative_humidity,10.000000000,819,92,93.647847420,143.319141348,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_enthalpy,10.000000000,819,92,173.709069830,185.297301798,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,120.348679784,176.177983529,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,90.739471226,142.128336921,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,116.689435593,148.023709515,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,89.044058465,149.563373992,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,133.954182671,154.121719774,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Temperature_only,100.000000000,819,92,116.742887007,151.265944549,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_humidity_ratio,100.000000000,819,92,174.404811485,186.765612752,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_dewpoint,100.000000000,819,92,249.744905053,269.500131834,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_relative_humidity,100.000000000,819,92,102.636936872,149.835000106,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Simple_T,Plus_enthalpy,100.000000000,819,92,230.319295921,246.240806154,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,100.855387945,161.862683298,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,105.602496232,148.719928570,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,129.399311844,156.877035989,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,94.573878804,152.523804327,2023 simulated cooling electricity; only target quarter
+Riyadh,3,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,134.597485228,158.658628246,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Temperature_only,1.000000000,819,92,63.189807574,87.884593638,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_humidity_ratio,1.000000000,819,92,69.123772782,89.586191732,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_dewpoint,1.000000000,819,92,96.901713759,121.215985644,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_relative_humidity,1.000000000,819,92,74.011970885,94.072695947,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_enthalpy,1.000000000,819,92,79.399207402,98.819463564,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,74.050268907,96.376126938,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,51.007026175,77.685443366,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,89.970597863,111.238446913,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,82.635713060,99.325348351,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,58.387568641,82.454313174,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Temperature_only,10.000000000,819,92,63.331483969,88.408787715,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_humidity_ratio,10.000000000,819,92,69.516083566,89.908725114,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_dewpoint,10.000000000,819,92,99.576555933,124.469643783,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_relative_humidity,10.000000000,819,92,67.478504584,89.322258596,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_enthalpy,10.000000000,819,92,80.721543755,100.183718185,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,62.962440404,88.364127511,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,52.827410096,78.254672631,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,88.054273811,108.609319297,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,80.186596023,96.620162351,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,60.059765456,82.514994899,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Temperature_only,100.000000000,819,92,67.023489758,94.152801671,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_humidity_ratio,100.000000000,819,92,71.389538727,92.340965834,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_dewpoint,100.000000000,819,92,113.382683616,144.982316491,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_relative_humidity,100.000000000,819,92,76.874529209,104.916543463,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Simple_T,Plus_enthalpy,100.000000000,819,92,83.453661964,105.920281050,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,57.660521958,84.673233261,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,48.822190814,75.065942224,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,68.353848537,88.111231024,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,46.934761330,73.296095412,2023 simulated cooling electricity; only target quarter
+Riyadh,4,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,51.441907566,75.622535552,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Temperature_only,1.000000000,825,90,71.371610079,89.222627516,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_humidity_ratio,1.000000000,825,90,69.859157305,88.393910068,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_dewpoint,1.000000000,825,90,74.695906058,92.729148067,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_relative_humidity,1.000000000,825,90,93.320635538,114.660854839,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_enthalpy,1.000000000,825,90,68.587210294,88.203974098,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Temperature_only,1.000000000,825,90,86.157779622,102.489735977,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,825,90,67.506312396,82.103856667,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,825,90,76.974844413,89.677399684,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,825,90,90.451851286,104.428351802,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,825,90,59.296636437,75.198883993,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Temperature_only,10.000000000,825,90,72.633452541,90.438453490,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_humidity_ratio,10.000000000,825,90,71.940372094,89.845699693,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_dewpoint,10.000000000,825,90,76.853530839,94.476483102,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_relative_humidity,10.000000000,825,90,92.506706101,113.484675890,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_enthalpy,10.000000000,825,90,69.656492252,89.272110135,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Temperature_only,10.000000000,825,90,85.887291286,101.999383301,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,825,90,67.672323244,82.324947565,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,825,90,80.033762330,92.743642833,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,825,90,91.179475640,105.186523143,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,825,90,62.766292505,78.847485838,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Temperature_only,100.000000000,825,90,85.929587983,104.665352274,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_humidity_ratio,100.000000000,825,90,89.853017840,105.898757344,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_dewpoint,100.000000000,825,90,96.037820545,112.402756195,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_relative_humidity,100.000000000,825,90,89.679584668,108.557957196,2023 simulated cooling electricity; only target quarter
+Doha,1,Simple_T,Plus_enthalpy,100.000000000,825,90,82.855358731,100.810161114,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Temperature_only,100.000000000,825,90,77.911942591,91.396424225,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,825,90,66.324467536,79.596071974,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,825,90,79.877928177,91.738481549,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,825,90,86.323440530,99.282443014,2023 simulated cooling electricity; only target quarter
+Doha,1,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,825,90,63.902963787,78.540041323,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Temperature_only,1.000000000,822,91,76.243554600,108.271479424,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_humidity_ratio,1.000000000,822,91,62.618296365,100.677713379,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_dewpoint,1.000000000,822,91,69.035104648,105.370310902,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_relative_humidity,1.000000000,822,91,72.744843160,106.143081161,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_enthalpy,1.000000000,822,91,66.487322881,103.968281887,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Temperature_only,1.000000000,822,91,76.714434436,108.907361613,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,822,91,54.905829822,92.915128170,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,822,91,65.746374853,98.447671084,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,822,91,66.784733358,99.810306452,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,822,91,58.385690618,94.015256798,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Temperature_only,10.000000000,822,91,76.577176188,108.470195647,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_humidity_ratio,10.000000000,822,91,61.576441116,100.080414049,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_dewpoint,10.000000000,822,91,68.850887702,104.995825319,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_relative_humidity,10.000000000,822,91,74.074031481,106.749880115,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_enthalpy,10.000000000,822,91,65.583017748,103.479511375,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Temperature_only,10.000000000,822,91,75.614438355,107.855172806,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,822,91,54.387718542,94.197894157,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,822,91,66.041803665,99.563855512,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,822,91,66.666599307,100.227021247,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,822,91,57.553681912,96.197864218,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Temperature_only,100.000000000,822,91,83.855415845,114.436600998,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_humidity_ratio,100.000000000,822,91,60.488263556,98.303270205,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_dewpoint,100.000000000,822,91,70.904575101,106.060289228,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_relative_humidity,100.000000000,822,91,91.013968891,121.527365918,2023 simulated cooling electricity; only target quarter
+Doha,2,Simple_T,Plus_enthalpy,100.000000000,822,91,62.170213278,101.811909929,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Temperature_only,100.000000000,822,91,77.588618108,110.112537316,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,822,91,59.467031615,98.856942459,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,822,91,69.748685106,104.928315297,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,822,91,72.091866579,106.219758728,2023 simulated cooling electricity; only target quarter
+Doha,2,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,822,91,62.566634345,101.594322090,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Temperature_only,1.000000000,819,92,223.608835051,243.314944669,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_humidity_ratio,1.000000000,819,92,134.987850127,176.969409526,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_dewpoint,1.000000000,819,92,192.314645509,213.550231810,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_relative_humidity,1.000000000,819,92,220.105696638,239.763739619,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_enthalpy,1.000000000,819,92,167.319894892,193.440749654,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,218.153039431,238.025498369,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,137.113007156,175.916322898,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,180.159643904,204.644974844,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,194.600104541,216.285006063,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,144.307149802,179.361954270,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Temperature_only,10.000000000,819,92,228.377368452,248.041648281,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_humidity_ratio,10.000000000,819,92,137.107117137,178.034296477,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_dewpoint,10.000000000,819,92,196.515346695,217.123943635,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_relative_humidity,10.000000000,819,92,228.711336844,248.389767126,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_enthalpy,10.000000000,819,92,165.961608702,192.664103909,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,218.413029948,238.401318046,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,141.515567568,177.883772327,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,184.865356050,208.457359796,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,197.067275504,218.563266215,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,155.661181092,185.724769757,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Temperature_only,100.000000000,819,92,270.977817944,293.466310783,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_humidity_ratio,100.000000000,819,92,159.644698114,191.813893023,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_dewpoint,100.000000000,819,92,234.856033625,253.509228025,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_relative_humidity,100.000000000,819,92,294.536801711,321.829149108,2023 simulated cooling electricity; only target quarter
+Doha,3,Simple_T,Plus_enthalpy,100.000000000,819,92,167.252807986,195.408445615,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,235.672948341,256.154351181,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,163.501424585,192.270841027,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,210.655119277,231.901359134,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,225.413938865,245.749295322,2023 simulated cooling electricity; only target quarter
+Doha,3,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,181.140709376,205.627400697,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Temperature_only,1.000000000,819,92,111.782959984,131.998606828,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_humidity_ratio,1.000000000,819,92,72.998865887,101.779987142,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_dewpoint,1.000000000,819,92,84.387601786,108.205103986,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_relative_humidity,1.000000000,819,92,102.191843466,122.812941503,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_enthalpy,1.000000000,819,92,86.742097299,109.212258608,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,98.308432678,125.094308936,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,62.521975135,99.377788240,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,78.677974079,105.788017938,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,89.936073670,113.447516262,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,60.892491243,95.721777976,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Temperature_only,10.000000000,819,92,110.390838959,131.376264083,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_humidity_ratio,10.000000000,819,92,70.716683678,100.682784941,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_dewpoint,10.000000000,819,92,82.418611898,106.687347503,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_relative_humidity,10.000000000,819,92,103.687342556,124.847907492,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_enthalpy,10.000000000,819,92,83.892184146,107.323246876,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,97.184401277,123.790492998,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,56.502118086,95.736592612,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,81.553404218,107.737200952,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,89.512685841,112.845278041,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,65.870471682,96.826426147,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Temperature_only,100.000000000,819,92,98.719911210,123.342518165,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_humidity_ratio,100.000000000,819,92,60.029117679,97.115413310,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_dewpoint,100.000000000,819,92,71.026058716,99.127111036,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_relative_humidity,100.000000000,819,92,114.309329588,140.041714781,2023 simulated cooling electricity; only target quarter
+Doha,4,Simple_T,Plus_enthalpy,100.000000000,819,92,64.844150531,96.770430620,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,93.284769691,119.980083015,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,59.906261698,94.922515675,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,79.577408911,106.710325650,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,87.117952542,113.267566511,2023 simulated cooling electricity; only target quarter
+Doha,4,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,75.552874841,101.028048520,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Temperature_only,1.000000000,825,90,57.313957209,80.866438691,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_humidity_ratio,1.000000000,825,90,54.886636961,80.521879998,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_dewpoint,1.000000000,825,90,56.344439883,79.637740157,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_relative_humidity,1.000000000,825,90,65.601065421,86.692886096,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_enthalpy,1.000000000,825,90,56.898664524,82.812642152,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Temperature_only,1.000000000,825,90,58.247681797,79.505259579,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,825,90,52.761975553,78.115484783,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,825,90,56.696635466,79.240820689,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,825,90,62.789842031,83.686653723,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,825,90,49.748843447,76.211142317,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Temperature_only,10.000000000,825,90,57.660114378,80.341504679,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_humidity_ratio,10.000000000,825,90,54.092164710,79.505537239,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_dewpoint,10.000000000,825,90,56.196463251,78.924282324,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_relative_humidity,10.000000000,825,90,63.783825852,85.281727867,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_enthalpy,10.000000000,825,90,56.339838639,82.074919194,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Temperature_only,10.000000000,825,90,63.117736546,80.922787906,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,825,90,48.974077152,74.840008805,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,825,90,57.313169137,77.765110317,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,825,90,58.995931691,79.727230056,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,825,90,54.129797855,76.392894191,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Temperature_only,100.000000000,825,90,62.286706449,79.698700446,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_humidity_ratio,100.000000000,825,90,52.452416202,73.580817350,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_dewpoint,100.000000000,825,90,58.828843716,77.205041423,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_relative_humidity,100.000000000,825,90,61.315819141,81.643052322,2023 simulated cooling electricity; only target quarter
+Muscat,1,Simple_T,Plus_enthalpy,100.000000000,825,90,52.403237598,75.764201150,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Temperature_only,100.000000000,825,90,62.022909604,76.455207683,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,825,90,50.271823014,68.310360071,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,825,90,61.411839597,75.954088982,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,825,90,57.037039557,73.478240905,2023 simulated cooling electricity; only target quarter
+Muscat,1,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,825,90,54.014064798,71.450796463,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Temperature_only,1.000000000,822,91,87.705400604,122.844714062,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_humidity_ratio,1.000000000,822,91,60.228944823,99.051889922,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_dewpoint,1.000000000,822,91,82.469650763,116.516443303,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_relative_humidity,1.000000000,822,91,81.379058444,116.629091130,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_enthalpy,1.000000000,822,91,69.283706736,105.510228584,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Temperature_only,1.000000000,822,91,83.383858396,119.657547292,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,822,91,70.759251035,96.117422895,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,822,91,76.623061892,102.069570268,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,822,91,67.895069997,102.860797564,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,822,91,86.716905472,104.949103093,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Temperature_only,10.000000000,822,91,85.989529526,121.449238809,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_humidity_ratio,10.000000000,822,91,59.666692831,98.227449724,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_dewpoint,10.000000000,822,91,80.780970444,115.003567022,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_relative_humidity,10.000000000,822,91,80.240625615,115.855075923,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_enthalpy,10.000000000,822,91,67.453622984,104.065209462,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Temperature_only,10.000000000,822,91,75.335251192,110.975359216,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,822,91,62.575559479,93.054642200,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,822,91,65.848006487,96.720854063,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,822,91,65.869375956,100.585619793,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,822,91,63.881262582,93.805837849,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Temperature_only,100.000000000,822,91,77.074496024,114.986394457,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_humidity_ratio,100.000000000,822,91,69.590665492,100.418336518,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_dewpoint,100.000000000,822,91,70.853045017,107.385328778,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_relative_humidity,100.000000000,822,91,78.603092418,116.546246561,2023 simulated cooling electricity; only target quarter
+Muscat,2,Simple_T,Plus_enthalpy,100.000000000,822,91,65.946645980,100.411309887,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Temperature_only,100.000000000,822,91,69.659185036,107.400679359,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,822,91,68.036227139,98.733662517,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,822,91,65.688978461,100.057854212,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,822,91,67.003454000,103.415478352,2023 simulated cooling electricity; only target quarter
+Muscat,2,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,822,91,64.121604583,98.263341188,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Temperature_only,1.000000000,819,92,114.649661963,145.156201015,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_humidity_ratio,1.000000000,819,92,96.527051583,139.588142778,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_dewpoint,1.000000000,819,92,100.562019807,139.196479114,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_relative_humidity,1.000000000,819,92,109.673062707,142.573538155,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_enthalpy,1.000000000,819,92,94.901951088,138.347581971,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,106.213559699,142.230675812,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,93.218965528,140.734196014,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,99.556086182,140.996046795,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,103.661369299,141.858153019,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,91.932896855,141.201270812,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Temperature_only,10.000000000,819,92,117.802810411,147.062587465,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_humidity_ratio,10.000000000,819,92,99.130118657,140.358900987,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_dewpoint,10.000000000,819,92,103.125079153,140.204067442,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_relative_humidity,10.000000000,819,92,113.990380209,144.838469664,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_enthalpy,10.000000000,819,92,96.768307071,139.042529925,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,107.056766186,142.699440512,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,95.144330033,141.114889608,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,100.270580829,141.052505313,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,105.270022164,142.299563046,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,93.506111701,141.222254124,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Temperature_only,100.000000000,819,92,150.381794601,171.095048173,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_humidity_ratio,100.000000000,819,92,124.925945257,153.087342360,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_dewpoint,100.000000000,819,92,132.051807887,156.442227665,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_relative_humidity,100.000000000,819,92,154.337281134,175.134755802,2023 simulated cooling electricity; only target quarter
+Muscat,3,Simple_T,Plus_enthalpy,100.000000000,819,92,115.738632611,148.320296866,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,121.483027324,151.638014239,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,110.136990540,147.064480082,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,113.399250904,147.938199616,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,119.838708828,150.814932645,2023 simulated cooling electricity; only target quarter
+Muscat,3,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,108.064321990,146.035592579,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Temperature_only,1.000000000,819,92,99.417140424,117.691296730,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_humidity_ratio,1.000000000,819,92,84.218134793,104.081534991,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_dewpoint,1.000000000,819,92,78.777772792,99.930697753,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_relative_humidity,1.000000000,819,92,95.114128102,112.765564431,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_enthalpy,1.000000000,819,92,88.692952369,108.463125883,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,94.558857166,111.803739547,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,54.071495640,84.746572091,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,64.511513722,90.425511167,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,99.874465664,114.126848222,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,48.499588827,81.396761461,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Temperature_only,10.000000000,819,92,97.381132622,115.872605988,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_humidity_ratio,10.000000000,819,92,82.218480166,102.231290142,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_dewpoint,10.000000000,819,92,76.106670933,97.610635640,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_relative_humidity,10.000000000,819,92,93.418725406,111.311924815,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_enthalpy,10.000000000,819,92,86.615860820,106.563694947,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,90.620682896,108.781225055,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,65.735335867,90.070991818,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,69.516424198,93.223805308,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,94.361404933,109.793268516,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,62.150516733,89.224607047,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Temperature_only,100.000000000,819,92,75.574526168,96.806568075,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_humidity_ratio,100.000000000,819,92,63.862026644,87.508423614,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_dewpoint,100.000000000,819,92,53.786645316,81.425044150,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_relative_humidity,100.000000000,819,92,76.798298386,98.210767771,2023 simulated cooling electricity; only target quarter
+Muscat,4,Simple_T,Plus_enthalpy,100.000000000,819,92,68.061000145,90.650948303,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,69.675996011,91.658148251,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,61.450740386,86.168308722,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,55.685910815,84.149162466,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,69.647762576,91.360632246,2023 simulated cooling electricity; only target quarter
+Muscat,4,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,64.177533831,89.212817686,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Temperature_only,1.000000000,825,90,127.753702431,160.334253428,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_humidity_ratio,1.000000000,825,90,122.102041496,152.322700116,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_dewpoint,1.000000000,825,90,119.407696498,146.428037466,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_relative_humidity,1.000000000,825,90,160.754932813,199.813792134,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_enthalpy,1.000000000,825,90,126.628974444,158.927029273,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Temperature_only,1.000000000,825,90,114.315118941,133.487616858,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,825,90,86.250164457,97.153103615,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,825,90,96.523681645,111.805592960,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,825,90,124.015564336,149.502404043,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,825,90,72.772647272,82.199230534,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Temperature_only,10.000000000,825,90,130.489710256,163.257178196,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_humidity_ratio,10.000000000,825,90,124.661264353,154.928592119,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_dewpoint,10.000000000,825,90,122.129397518,149.236528162,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_relative_humidity,10.000000000,825,90,162.112118931,200.753349464,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_enthalpy,10.000000000,825,90,128.863997636,161.300946176,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Temperature_only,10.000000000,825,90,114.771896810,134.218733456,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,825,90,88.984210523,102.104831002,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,825,90,97.687548736,112.700110222,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,825,90,122.223741957,145.473784796,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,825,90,83.420023931,96.097428895,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Temperature_only,100.000000000,825,90,155.753933077,189.452275132,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_humidity_ratio,100.000000000,825,90,146.109562272,177.559481162,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_dewpoint,100.000000000,825,90,147.125245720,175.158616732,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_relative_humidity,100.000000000,825,90,177.411939864,212.306526204,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Simple_T,Plus_enthalpy,100.000000000,825,90,148.351222545,181.685455089,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Temperature_only,100.000000000,825,90,93.565320769,109.827889455,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,825,90,80.865969380,93.622683885,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,825,90,87.601730210,100.242779435,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,825,90,105.156377379,122.261475942,2023 simulated cooling electricity; only target quarter
+Kuwait City,1,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,825,90,85.165621316,100.080889907,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Temperature_only,1.000000000,822,91,77.269644755,109.686453652,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_humidity_ratio,1.000000000,822,91,59.190083785,93.820447484,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_dewpoint,1.000000000,822,91,77.576422057,112.338450459,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_relative_humidity,1.000000000,822,91,70.774295865,105.863079986,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_enthalpy,1.000000000,822,91,68.725414509,103.443737343,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Temperature_only,1.000000000,822,91,72.394303522,107.596088023,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,822,91,53.749024193,87.460322977,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,822,91,64.104512837,98.863739041,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,822,91,63.404665498,98.944768740,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,822,91,55.637140261,90.339481403,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Temperature_only,10.000000000,822,91,75.865626854,108.135289170,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_humidity_ratio,10.000000000,822,91,58.487034048,92.896864351,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_dewpoint,10.000000000,822,91,76.207282894,110.716149183,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_relative_humidity,10.000000000,822,91,69.322881702,104.343115850,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_enthalpy,10.000000000,822,91,67.249588946,102.030047698,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Temperature_only,10.000000000,822,91,63.473628416,98.456538372,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,822,91,52.539480222,86.889419696,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,822,91,64.142022424,97.849474359,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,822,91,60.701567190,95.126191847,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,822,91,56.134993995,91.758045959,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Temperature_only,100.000000000,822,91,67.642562897,99.101708898,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_humidity_ratio,100.000000000,822,91,63.172795135,92.351916164,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_dewpoint,100.000000000,822,91,66.106987908,100.638923250,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_relative_humidity,100.000000000,822,91,66.574554100,98.435692830,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Simple_T,Plus_enthalpy,100.000000000,822,91,59.822067065,94.877178119,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Temperature_only,100.000000000,822,91,60.678215151,93.583126206,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,822,91,56.517880699,89.493750718,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,822,91,63.990000781,97.129136851,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,822,91,60.376484031,94.054040252,2023 simulated cooling electricity; only target quarter
+Kuwait City,2,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,822,91,58.464142713,93.839413738,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Temperature_only,1.000000000,819,92,150.301946808,187.890734700,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_humidity_ratio,1.000000000,819,92,135.277252368,167.445272255,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_dewpoint,1.000000000,819,92,138.284055849,176.267246228,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_relative_humidity,1.000000000,819,92,140.915945335,179.079333393,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_enthalpy,1.000000000,819,92,128.938808353,167.338401384,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,133.962257766,177.988817745,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,119.006029767,159.392615768,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,122.707483087,171.096401246,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,131.775015001,173.748276830,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,112.183880196,162.321459627,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Temperature_only,10.000000000,819,92,154.044305778,190.810333152,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_humidity_ratio,10.000000000,819,92,139.520939266,169.928646661,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_dewpoint,10.000000000,819,92,141.477987144,178.477374644,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_relative_humidity,10.000000000,819,92,145.983798742,182.809896815,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_enthalpy,10.000000000,819,92,131.277746621,168.508838211,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,136.353533775,179.257916655,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,125.566313155,162.978665825,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,126.562211199,172.591757514,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,134.044257271,175.198990853,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,120.899104816,165.187211196,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Temperature_only,100.000000000,819,92,195.606313215,224.872302524,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_humidity_ratio,100.000000000,819,92,179.380357928,199.986122088,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_dewpoint,100.000000000,819,92,178.707904639,207.029695690,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_relative_humidity,100.000000000,819,92,196.225382028,225.667461267,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Simple_T,Plus_enthalpy,100.000000000,819,92,158.389040621,185.791090890,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,153.606619701,191.398286313,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,147.446026984,178.125242288,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,144.782699103,183.892516100,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,151.317667241,188.224926675,2023 simulated cooling electricity; only target quarter
+Kuwait City,3,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,142.226461870,178.042448282,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Temperature_only,1.000000000,819,92,71.556064109,91.327722283,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_humidity_ratio,1.000000000,819,92,65.048858036,86.283547422,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_dewpoint,1.000000000,819,92,65.259787761,88.480858981,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_relative_humidity,1.000000000,819,92,72.155258000,92.586119331,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_enthalpy,1.000000000,819,92,67.757343978,89.679099156,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Temperature_only,1.000000000,819,92,60.746113510,81.434166378,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_humidity_ratio,1.000000000,819,92,57.286797745,76.442721114,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_dewpoint,1.000000000,819,92,53.975428800,75.715364776,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_relative_humidity,1.000000000,819,92,64.133182263,83.186691988,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_enthalpy,1.000000000,819,92,61.265966798,79.966167364,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Temperature_only,10.000000000,819,92,71.987708714,91.620113098,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_humidity_ratio,10.000000000,819,92,65.442085778,86.736287797,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_dewpoint,10.000000000,819,92,65.763169921,89.116353600,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_relative_humidity,10.000000000,819,92,72.212773470,92.702149556,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_enthalpy,10.000000000,819,92,67.953679905,90.129375526,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Temperature_only,10.000000000,819,92,57.628849568,79.445956167,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_humidity_ratio,10.000000000,819,92,54.672577406,74.899094981,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_dewpoint,10.000000000,819,92,51.655527698,74.547419504,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_relative_humidity,10.000000000,819,92,57.764180140,77.871347310,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_enthalpy,10.000000000,819,92,54.498413549,76.923431728,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Temperature_only,100.000000000,819,92,74.875011246,96.651899597,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_humidity_ratio,100.000000000,819,92,71.014266477,92.730787475,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_dewpoint,100.000000000,819,92,72.353097167,96.161855675,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_relative_humidity,100.000000000,819,92,74.663127935,96.678988034,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Simple_T,Plus_enthalpy,100.000000000,819,92,69.972197240,95.429418031,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Temperature_only,100.000000000,819,92,59.641820815,80.903632130,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_humidity_ratio,100.000000000,819,92,51.512539810,72.991761163,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_dewpoint,100.000000000,819,92,51.041169571,74.373101677,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_relative_humidity,100.000000000,819,92,49.291296372,73.086311795,2023 simulated cooling electricity; only target quarter
+Kuwait City,4,Rich_T_Solar_Season,Plus_enthalpy,100.000000000,819,92,51.878138879,75.563747339,2023 simulated cooling electricity; only target quarter

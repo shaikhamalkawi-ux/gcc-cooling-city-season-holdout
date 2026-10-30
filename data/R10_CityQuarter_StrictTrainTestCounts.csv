@@ -1,0 +1,17 @@
+heldout_city,heldout_quarter,train_rows,test_rows,excluded_all_target_city,excluded_target_quarter_from_all_training_cities
+Riyadh,1,825,90,True,True
+Riyadh,2,822,91,True,True
+Riyadh,3,819,92,True,True
+Riyadh,4,819,92,True,True
+Doha,1,825,90,True,True
+Doha,2,822,91,True,True
+Doha,3,819,92,True,True
+Doha,4,819,92,True,True
+Muscat,1,825,90,True,True
+Muscat,2,822,91,True,True
+Muscat,3,819,92,True,True
+Muscat,4,819,92,True,True
+Kuwait City,1,825,90,True,True
+Kuwait City,2,822,91,True,True
+Kuwait City,3,819,92,True,True
+Kuwait City,4,819,92,True,True
